@@ -1,3 +1,5 @@
+/* styles.css */
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -45,4 +47,17 @@ a {
 
 a:hover {
     text-decoration: underline;
+}
+
+/* New style for HubSpot Academy Badge */
+.academy-badge {
+    margin-top: 10px;
+    text-align: center;
+}
+
+.academy-badge img {
+    width: 100px;
+    height: auto;
+    border: 2px solid #007BFF;
+    border-radius: 8px;
 }
